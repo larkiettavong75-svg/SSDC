@@ -1,11 +1,11 @@
 {
-    "name": "mobile",
-    "short_name": "mobile",
+    "name": "ສູນພັດທະນາສີມືແຮງງານ ແຂວງສະຫວັນນະເຂດ",
+    "short_name": "SSDC Savannakhet",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#991B1B",
+    "theme_color": "#991B1B",
+    "description": "ລະບົບສະໝັກຮຽນ ແລະ ຂໍ້ມູນການຝຶກອົບຮົມວິຊາຊີບ",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
